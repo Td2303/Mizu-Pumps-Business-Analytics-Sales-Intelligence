@@ -61,3 +61,5 @@ The project combines SQL, Power BI, and business intelligence techniques to supp
 - Business Intelligence Frameworks
 
 ---
+## Author 
+Taarini Dagar
