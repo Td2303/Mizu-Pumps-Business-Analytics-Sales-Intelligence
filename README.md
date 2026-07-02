@@ -18,7 +18,7 @@ The project combines SQL, Power BI, and business intelligence techniques to supp
 
 ---
 
-## 📊 Key Analyses
+## 📊 Key Analysis
 
 ### Revenue & Growth Analytics
 - Monthly revenue dashboards
@@ -61,5 +61,23 @@ The project combines SQL, Power BI, and business intelligence techniques to supp
 - Business Intelligence Frameworks
 
 ---
+## 🚀 Business Impact
+Improved inventory turnover by 12%
+Reduced operational costs by 3%
+Supported ₹1 Cr+ in incremental annual sales growth
+Enhanced demand forecasting accuracy by 15%
+Enabled data-driven dealer and pricing decisions
+___
+
+## 📈 Key KPIs Tracked
+Revenue Growth (MoM)
+Inventory Turnover Ratio
+Gross Margin %
+Average Order Value
+Dealer Productivity
+Customer Retention
+Stock-out Frequency
+Repeat Purchase Rate
+___
 ## Author 
 Taarini Dagar
